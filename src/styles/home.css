@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+.carousel-image{
+    width: 100%;
+}
+.home-card{
+    width: 25rem;
+    border: none;
+}
+.home-card:hover{
+    transform: scale(1.05);
+}
+.home-card-body{
+    background-color: cadetblue;
+    color: white;
+    font-weight:500;
+}
+.services-heading{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+}

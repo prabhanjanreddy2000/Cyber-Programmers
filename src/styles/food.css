@@ -1,0 +1,30 @@
+.category-image{
+    height: 200px;
+    width: 298px;
+}
+.category-card{
+    height: 300px;
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.meal-image{
+    height: 200px;
+    width: 300px;
+}
+.meal-card{
+    height: 350px;
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.meal-card-body{
+    background-color: bisque;
+    height: 150px;
+}
+.category-card-body{
+    height: 97px;
+    background-color: bisque;
+}

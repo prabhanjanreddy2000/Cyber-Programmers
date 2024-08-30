@@ -1,0 +1,35 @@
+.scrollspy-example{
+    overflow-y: scroll;
+    height: 200px;
+}
+.news-card-body{
+    height: 300px;
+    overflow-y: scroll ;
+}
+.news-card-body::-webkit-scrollbar {
+    display: none;
+}
+.news-category-button{
+width: 150px;
+}
+.news-scroll{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+.scrollspy-example::-webkit-scrollbar {
+    width: 10px;
+  }
+.scrollspy-example::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+
+.scrollspy-example::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+
+.scrollspy-example::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+.news-icon1:hover,.news-icon2:hover,.news-icon3:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+.form{
+    max-width: 800px;
+    margin: auto;
+    font-family: "Merriweather", serif;
+    font-weight: 500;
+    font-size: large;
+    max-width: 700px;
+}
+.contactUsAt{
+    font-family: "Dancing Script", cursive;
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-size: small;
+}
+.link{
+    text-decoration: none;
+    line-height: 100px;
+}
+.contact-address{
+    text-decoration-line: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: cadetblue;
+    text-decoration-style: wavy;
+}
